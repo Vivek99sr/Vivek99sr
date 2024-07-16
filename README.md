@@ -20,10 +20,6 @@
 
  </div>
  
- <!-- GitHub Stats from: https://github.com/Vivek99sr/github-readme-stats -->
-[![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivek99sr&show_icons=true&theme=radical)](https://github.com/Vivek99sr/github-readme-stats)
-
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vivek_srivastava._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-srivastav-80122b262) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Vivek99sr) 
